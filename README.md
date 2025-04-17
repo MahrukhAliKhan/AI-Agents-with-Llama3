@@ -32,7 +32,7 @@ These agents collaborate using CrewAI's Crew system to achieve a coordinated ana
 3. Initialize the DuckDuckGo Search tool for environmental data
 4. Define AI agents with specialized responsibilities
 5. Assign tasks to agents — such as research, analysis, and reporting
-6. Load the GPT-3.5 model for advanced language reasoning
+6. Load the Llama3-70B model for advanced language reasoning
 7. Run the CrewAI system to let agents autonomously complete their workflow
 8. Display final results — clean, AI-generated environmental insights
 
